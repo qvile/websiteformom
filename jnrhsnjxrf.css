@@ -1,0 +1,70 @@
+body {
+    background-image:url(pink.jpg) ;
+}
+
+h1 {
+    color:white;
+}
+#txtus {
+    text-align: center;
+}
+#i1 {
+    position:relative; left: 50px;
+}
+#i2 {
+    position:relative; left: 50px;
+}
+#i3 {
+    position:relative; left: 50px;
+}
+#txtus2 {
+    text-align: center;
+}
+#i1 {
+    border:5px,dashed,white ;
+}
+#i2 {
+    border:5px,dashed,white ;
+}
+#i3 {
+    border:5px,dashed,white ;
+}
+#i1 {
+    border-radius: 28px;
+}
+#i2 {
+    border-radius: 28px;
+}
+#i3 {
+    border-radius: 28px;
+}
+#txtus {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#txtus2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#h {
+    position:relative ; left: 10px; top : 60px
+}
+#h {
+    transform: rotateZ(30deg);
+}
+#hh {
+    position:relative ; right:21px ; top : 34px
+}
+#hh {
+    transform: rotateZ(53deg);
+}
+#hhh {
+    position:relative ; left: 12px; top : 54px
+}
+#hhh {
+    transform: rotateZ(60deg);
+}
+#h {
+    position:relative ; left: 10px; top : 60px
+}
+#h {
+    transform: rotateZ(30deg);
+}
